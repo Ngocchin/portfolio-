@@ -74,7 +74,6 @@ export default function About() {
           <AnimatedCounter end={15} label="Happy Clients" icon={<Users />} />
           <AnimatedCounter end={3} label="Awards" icon={<Award />} /> */}
         </motion.div>
-        
       </div>
     </section>
   )
